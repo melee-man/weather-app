@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  color: white;
+  background-color: wheat;
+  background-image: url(lagos.jpg);
+  background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 10rem; 
+}
+
+h2 {
+    font-size: 3rem;
+}
+#temp {
+    margin-top: 12rem;
+}
+
+#city {
+    text-align: right;
+    padding-top: 2.5rem;
+}
